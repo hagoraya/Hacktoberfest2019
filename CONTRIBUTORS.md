@@ -415,3 +415,11 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Mark Wood
+- Photo: https://avatars1.githubusercontent.com/u/9339148?s=400&u=f998663122a1f41d5ea26eff7d25b4674be02f01&v=4
+- Location: Toronto, Canada
+- Bio: CS Student
+- Github: https://github.com/hagoraya
+
+
